@@ -47,3 +47,7 @@ Temporary Items
 .apdisk
 *.pyc
 *.pdf
+
+myenv/lib/python3.9/site-packages
+myenv/share/python-wheels
+myenv/bin
